@@ -2,8 +2,8 @@
 
 one:
   name: MyString
-  ordering_totals: 1
+  total_quantity: 1
 
 two:
   name: MyString
-  ordering_totals: 1
+  total_quantity: 1
